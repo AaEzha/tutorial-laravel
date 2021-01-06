@@ -23,4 +23,12 @@ Proses CRUD tersebut ada di file `CrudController.php` pada folder `app\Http\Cont
 
 ## Fitur
 
--
+### CRUD Sederhana
+
+CRUD sederhana dengan route tersendiri, dan form tambah dan edit terpisah.
+
+## Request
+
+Kamu ingin request tutorial lainnya? Sila kirim email ke `aaezha@gmail.com` ya!
+
+Terima kasih!
